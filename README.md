@@ -40,7 +40,6 @@
 
 - [Live Version](https://cryptic-gorge-17131.herokuapp.com/)
 
-
 ## Authors
 
 👤 **Mar y Sol Bautista**
